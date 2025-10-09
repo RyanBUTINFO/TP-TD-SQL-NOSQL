@@ -1,0 +1,295 @@
+[
+  {
+    "itemId": 6632,
+    "name": "Divine Sunderer",
+    "cost": 3300,
+    "type": "Mythic",
+    "stats": {
+      "attackDamage": 40,
+      "health": 300,
+      "abilityHaste": 20
+    },
+    "passive": "After using an ability, your next basic attack deals bonus damage and heals you.",
+    "components": ["Phage", "Sheen", "Kindlegem"],
+    "description": "Great for bruisers needing both damage and durability.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3153,
+    "name": "Blade of the Ruined King",
+    "cost": 3200,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 40,
+      "attackSpeed": 25,
+      "lifeSteal": 10
+    },
+    "passive": "Basic attacks deal damage based on target's current health.",
+    "components": ["Recurve Bow", "Pickaxe", "Vampiric Scepter"],
+    "description": "Works well on on-hit and sustained damage champions.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 6692,
+    "name": "Eclipse",
+    "cost": 3100,
+    "type": "Mythic",
+    "stats": {
+      "attackDamage": 60,
+      "lethality": 18,
+      "omnivamp": 8
+    },
+    "passive": "Hitting champions with 2 separate attacks or abilities deals bonus damage and grants a shield.",
+    "components": ["Long Sword", "Vampiric Scepter", "Caulfield's Warhammer"],
+    "description": "Favored by assassins and bruisers.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3111,
+    "name": "Mercury's Treads",
+    "cost": 1100,
+    "type": "Boots",
+    "stats": {
+      "moveSpeed": 45,
+      "magicResist": 25,
+      "tenacity": 30
+    },
+    "passive": "Reduces duration of crowd control effects.",
+    "components": ["Boots", "Null-Magic Mantle"],
+    "description": "Essential against heavy crowd control.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3078,
+    "name": "Trinity Force",
+    "cost": 3400,
+    "type": "Mythic",
+    "stats": {
+      "attackDamage": 45,
+      "health": 200,
+      "attackSpeed": 35,
+      "abilityHaste": 20
+    },
+    "passive": "Basic attacks grant bonus movement speed. The Spellblade effect triggers on ability cast.",
+    "components": ["Sheen", "Phage", "Stinger"],
+    "description": "Versatile mythic item for many fighters.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3157,
+    "name": "Zhonya's Hourglass",
+    "cost": 3000,
+    "type": "Legendary",
+    "stats": {
+      "abilityPower": 120,
+      "armor": 50,
+      "abilityHaste": 15
+    },
+    "active": "Become invulnerable and untargetable for 2.5 seconds.",
+    "components": ["Seeker's Armguard", "Fiendish Codex", "Stopwatch"],
+    "description": "Crucial for AP champions needing survivability.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 1055,
+    "name": "Doran's Blade",
+    "cost": 450,
+    "type": "Starter",
+    "stats": {
+      "attackDamage": 8,
+      "health": 80,
+      "lifeSteal": 2.5
+    },
+    "description": "Standard starter item for AD laners.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 1056,
+    "name": "Doran's Ring",
+    "cost": 400,
+    "type": "Starter",
+    "stats": {
+      "abilityPower": 15,
+      "health": 70,
+      "manaRegen": 0.75
+    },
+    "description": "Starter item for AP casters.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 6693,
+    "name": "Duskblade of Draktharr",
+    "cost": 3100,
+    "type": "Mythic",
+    "stats": {
+      "attackDamage": 60,
+      "lethality": 18,
+      "abilityHaste": 20
+    },
+    "passive": "Attacking a champion deals bonus damage and grants stealth after takedown.",
+    "components": ["Serrated Dirk", "Caulfield's Warhammer"],
+    "description": "Preferred by assassins.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3124,
+    "name": "Guinsoo's Rageblade",
+    "cost": 3200,
+    "type": "Legendary",
+    "stats": {
+      "attackSpeed": 45,
+      "abilityPower": 30,
+      "onHit": 30
+    },
+    "passive": "Every third attack triggers on-hit effects twice.",
+    "components": ["Recurve Bow", "Blasting Wand", "Dagger"],
+    "description": "Popular on-hit item.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3031,
+    "name": "Infinity Edge",
+    "cost": 3400,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 70,
+      "criticalStrike": 20
+    },
+    "passive": "Increases critical strike damage by 35%.",
+    "components": ["Pickaxe", "B. F. Sword", "Cloak of Agility"],
+    "description": "Core item for crit builds.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3068,
+    "name": "Sunfire Aegis",
+    "cost": 3200,
+    "type": "Legendary",
+    "stats": {
+      "health": 450,
+      "armor": 60,
+      "abilityHaste": 20
+    },
+    "passive": "Deals burn damage per second to nearby enemies.",
+    "components": ["Bami's Cinder", "Chain Vest", "Ruby Crystal"],
+    "description": "Common tank item.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 6672,
+    "name": "Kraken Slayer",
+    "cost": 3000,
+    "type": "Mythic",
+    "stats": {
+      "attackDamage": 40,
+      "attackSpeed": 30,
+      "criticalStrike": 20
+    },
+    "passive": "Every third attack deals bonus true damage.",
+    "components": ["Noonquiver", "Cloak of Agility", "Pickaxe"],
+    "description": "Great vs tanky champions.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3155,
+    "name": "Hexdrinker",
+    "cost": 1300,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 20,
+      "magicResist": 35
+    },
+    "passive": "When taking magic damage below 30% health, gain a shield.",
+    "components": ["Long Sword", "Null-Magic Mantle"],
+    "description": "Anti-mage item for AD champions.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3123,
+    "name": "Executioner's Calling",
+    "cost": 800,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 15
+    },
+    "passive": "Applies Grievous Wounds on hit.",
+    "components": ["Long Sword"],
+    "description": "Counters healing.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 6617,
+    "name": "Moonstone Renewer",
+    "cost": 2500,
+    "type": "Mythic",
+    "stats": {
+      "abilityPower": 40,
+      "health": 250,
+      "abilityHaste": 20,
+      "mana": 100
+    },
+    "passive": "Healing abilities heal nearby allies as well.",
+    "components": ["Bandleglass Mirror", "Kindlegem"],
+    "description": "Healing support item.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 6664,
+    "name": "Turbo Chemtank",
+    "cost": 3200,
+    "type": "Mythic",
+    "stats": {
+      "health": 500,
+      "armor": 50,
+      "magicResist": 50
+    },
+    "active": "Charge forward, slowing enemies.",
+    "components": ["Bami's Cinder", "Winged Moonplate"],
+    "description": "Engage item for tanks.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3040,
+    "name": "Seraph's Embrace",
+    "cost": 3200,
+    "type": "Legendary",
+    "stats": {
+      "abilityPower": 80,
+      "mana": 860,
+      "abilityHaste": 15
+    },
+    "passive": "Gains shield equal to a portion of mana on damage taken.",
+    "components": ["Tear of the Goddess", "Archangel's Staff"],
+    "description": "Scaling AP item.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3071,
+    "name": "Black Cleaver",
+    "cost": 3300,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 50,
+      "health": 300,
+      "abilityHaste": 20
+    },
+    "passive": "Dealing damage reduces enemy armor.",
+    "components": ["Caulfield's Warhammer", "Kindlegem", "Long Sword"],
+    "description": "Armor shredding for bruisers.",
+    "patch": "15.1"
+  },
+  {
+    "itemId": 3139,
+    "name": "Mercurial Scimitar",
+    "cost": 3000,
+    "type": "Legendary",
+    "stats": {
+      "attackDamage": 40,
+      "magicResist": 40
+    },
+    "active": "Removes crowd control effects and grants movement speed.",
+    "components": ["Quicksilver Sash", "Pickaxe"],
+    "description": "Essential for escaping disables.",
+    "patch": "15.1"
+  }
+]
